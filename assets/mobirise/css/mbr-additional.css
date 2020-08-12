@@ -1128,6 +1128,47 @@ section.lazy-placeholder:after {
 .cid-s7h7s5Lfqi .card {
   padding-bottom: 1.5rem;
 }
+.cid-s7sNN2pBmw {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s7sNN2pBmw h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s7sNN2pBmw p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s7sNN2pBmw .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s7sNN2pBmw .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s7sNN2pBmw .mbr-text {
+  color: #767676;
+}
+.cid-s7sNN2pBmw .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s7sNN2pBmw .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-s7sNN2pBmw H2 {
+  color: #6fd479;
+}
+.cid-s7sNN2pBmw .mbr-text,
+.cid-s7sNN2pBmw .mbr-section-btn {
+  text-align: center;
+  color: #232323;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
